@@ -1,0 +1,7 @@
+D:\Учеба\лабы\5 сем\СПП\2 лаба\Faker\ExampleUseFaker\bin\Debug\ExampleUseFaker.exe.config
+D:\Учеба\лабы\5 сем\СПП\2 лаба\Faker\ExampleUseFaker\bin\Debug\ExampleUseFaker.exe
+D:\Учеба\лабы\5 сем\СПП\2 лаба\Faker\ExampleUseFaker\bin\Debug\ExampleUseFaker.pdb
+D:\Учеба\лабы\5 сем\СПП\2 лаба\Faker\ExampleUseFaker\obj\Debug\ExampleUseFaker.csprojAssemblyReference.cache
+D:\Учеба\лабы\5 сем\СПП\2 лаба\Faker\ExampleUseFaker\obj\Debug\ExampleUseFaker.csproj.CoreCompileInputs.cache
+D:\Учеба\лабы\5 сем\СПП\2 лаба\Faker\ExampleUseFaker\obj\Debug\ExampleUseFaker.exe
+D:\Учеба\лабы\5 сем\СПП\2 лаба\Faker\ExampleUseFaker\obj\Debug\ExampleUseFaker.pdb
