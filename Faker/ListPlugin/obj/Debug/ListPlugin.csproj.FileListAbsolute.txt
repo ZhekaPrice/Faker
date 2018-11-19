@@ -1,0 +1,13 @@
+D:\Учеба\лабы\5 сем\СПП\2 лаба\Faker\ListPlugin\bin\Debug\ListPlugin.dll
+D:\Учеба\лабы\5 сем\СПП\2 лаба\Faker\ListPlugin\bin\Debug\ListPlugin.pdb
+D:\Учеба\лабы\5 сем\СПП\2 лаба\Faker\ListPlugin\bin\Debug\Faker.exe
+D:\Учеба\лабы\5 сем\СПП\2 лаба\Faker\ListPlugin\bin\Debug\Faker.pdb
+D:\Учеба\лабы\5 сем\СПП\2 лаба\Faker\ListPlugin\bin\Debug\Faker.exe.config
+D:\Учеба\лабы\5 сем\СПП\2 лаба\Faker\ListPlugin\obj\Debug\ListPlugin.csproj.CoreCompileInputs.cache
+D:\Учеба\лабы\5 сем\СПП\2 лаба\Faker\ListPlugin\obj\Debug\ListPlugin.csproj.CopyComplete
+D:\Учеба\лабы\5 сем\СПП\2 лаба\Faker\ListPlugin\obj\Debug\ListPlugin.dll
+D:\Учеба\лабы\5 сем\СПП\2 лаба\Faker\ListPlugin\obj\Debug\ListPlugin.pdb
+D:\Учеба\лабы\5 сем\СПП\2 лаба\Faker\ListPlugin\obj\Debug\ListPlugin.csprojAssemblyReference.cache
+D:\Учеба\лабы\5 сем\СПП\2 лаба\Faker\ListPlugin\bin\Debug\ExampleUseFaker.exe
+D:\Учеба\лабы\5 сем\СПП\2 лаба\Faker\ListPlugin\bin\Debug\ExampleUseFaker.pdb
+D:\Учеба\лабы\5 сем\СПП\2 лаба\Faker\ListPlugin\bin\Debug\ExampleUseFaker.exe.config
