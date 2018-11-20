@@ -1,0 +1,11 @@
+D:\Учеба\лабы\5 сем\СПП\2 лаба\Faker\Faker\bin\Debug\Faker.exe.config
+D:\Учеба\лабы\5 сем\СПП\2 лаба\Faker\Faker\bin\Debug\Faker.exe
+D:\Учеба\лабы\5 сем\СПП\2 лаба\Faker\Faker\bin\Debug\Faker.pdb
+D:\Учеба\лабы\5 сем\СПП\2 лаба\Faker\Faker\obj\Debug\Faker.csprojAssemblyReference.cache
+D:\Учеба\лабы\5 сем\СПП\2 лаба\Faker\Faker\obj\Debug\Faker.csproj.CoreCompileInputs.cache
+D:\Учеба\лабы\5 сем\СПП\2 лаба\Faker\Faker\obj\Debug\Faker.exe
+D:\Учеба\лабы\5 сем\СПП\2 лаба\Faker\Faker\obj\Debug\Faker.pdb
+D:\Учеба\лабы\5 сем\СПП\2 лаба\Faker\Faker\bin\Debug\ExampleUseFaker.exe
+D:\Учеба\лабы\5 сем\СПП\2 лаба\Faker\Faker\bin\Debug\ExampleUseFaker.pdb
+D:\Учеба\лабы\5 сем\СПП\2 лаба\Faker\Faker\bin\Debug\ExampleUseFaker.exe.config
+D:\Учеба\лабы\5 сем\СПП\2 лаба\Faker\Faker\obj\Debug\Faker.csproj.CopyComplete
