@@ -1,0 +1,13 @@
+D:\Учеба\лабы\5 сем\СПП\2 лаба\Faker\DictionGeneration\bin\Debug\DictionGeneration.dll
+D:\Учеба\лабы\5 сем\СПП\2 лаба\Faker\DictionGeneration\bin\Debug\DictionGeneration.pdb
+D:\Учеба\лабы\5 сем\СПП\2 лаба\Faker\DictionGeneration\bin\Debug\Faker.exe
+D:\Учеба\лабы\5 сем\СПП\2 лаба\Faker\DictionGeneration\bin\Debug\ExampleUseFaker.exe
+D:\Учеба\лабы\5 сем\СПП\2 лаба\Faker\DictionGeneration\bin\Debug\Faker.pdb
+D:\Учеба\лабы\5 сем\СПП\2 лаба\Faker\DictionGeneration\bin\Debug\Faker.exe.config
+D:\Учеба\лабы\5 сем\СПП\2 лаба\Faker\DictionGeneration\bin\Debug\ExampleUseFaker.pdb
+D:\Учеба\лабы\5 сем\СПП\2 лаба\Faker\DictionGeneration\bin\Debug\ExampleUseFaker.exe.config
+D:\Учеба\лабы\5 сем\СПП\2 лаба\Faker\DictionGeneration\obj\Debug\DictionGeneration.csprojAssemblyReference.cache
+D:\Учеба\лабы\5 сем\СПП\2 лаба\Faker\DictionGeneration\obj\Debug\DictionGeneration.csproj.CoreCompileInputs.cache
+D:\Учеба\лабы\5 сем\СПП\2 лаба\Faker\DictionGeneration\obj\Debug\DictionGeneration.csproj.CopyComplete
+D:\Учеба\лабы\5 сем\СПП\2 лаба\Faker\DictionGeneration\obj\Debug\DictionGeneration.dll
+D:\Учеба\лабы\5 сем\СПП\2 лаба\Faker\DictionGeneration\obj\Debug\DictionGeneration.pdb
